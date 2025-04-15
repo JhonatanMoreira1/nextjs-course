@@ -1,8 +1,13 @@
 # 📦 Fork for Pull Request - Fix Connectivity Issue
 
-📁 Repository: A **fork** of the original project [burakorkmez/nextjs-course](https://github.com/burakorkmez/nextjs-course), created to submit a Pull Request addressing a connectivity error.  
-🔗 Pull Request: [#4 - Fix connectivity error and failure to request data from the server](https://github.com/burakorkmez/nextjs-course/pull/4)  
-🌿 Branch: [`fix-connectivity-check`](https://github.com/JhonatanMoreira1/nextjs-course/tree/fix-connectivity-check) – where the fix was implemented.
+📁 **Repository:**  
+A **fork** of the original project [burakorkmez/nextjs-course](https://github.com/burakorkmez/nextjs-course), created to submit a **Pull Request** addressing a connectivity error.  
+
+🔗 **Pull Request:**  
+[#4 - Fix connectivity error and failure to request data from the server](https://github.com/burakorkmez/nextjs-course/pull/4)  
+
+🌿 **Branch:**  
+The fix was implemented on the [`fix-connectivity-check`](https://github.com/JhonatanMoreira1/nextjs-course/tree/fix-connectivity-check) branch.
 
 ---
 
